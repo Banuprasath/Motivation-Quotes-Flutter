@@ -1,6 +1,3 @@
-import 'package:flutter/material.dart';
-
-class homeScreen extends StatefulWidget {const homeScreen({key? key}:super(key:key))};
 /*
 import 'dart:convert';
 

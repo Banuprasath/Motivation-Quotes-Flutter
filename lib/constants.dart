@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+var accesskey = "fEZjMpw0Z1BQkVDgOhMO4L4-joAPbZ9Lg6GCOHJe8Ho";
+
 var kQuoteTextStyle = TextStyle(
     fontSize: 25,
     color: Colors.white.withOpacity(0.95),
